@@ -2,5 +2,5 @@
 KeltaTech's Happy Independence message code.
 
 ```
-It is very simple and just for fun
+It is a very simple code and just for fun.
 ```
